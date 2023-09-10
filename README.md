@@ -19,7 +19,7 @@ Welcome to the New Year 2024 Countdown Timer web page! This simple web applicati
 - Days, hours, minutes, and seconds: The countdown timer is broken down into days, hours, minutes, and seconds, providing a precise measure of time.
 - User-friendly interface: The user interface is clean and easy to understand, making it accessible to users of all ages and technical levels.
 
-![Screenshot](screenshot.png)
+![Screenshot](images/new-year.png)
 
 ## Getting Started
 
