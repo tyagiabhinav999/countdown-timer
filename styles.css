@@ -3,6 +3,7 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 .container {
@@ -22,7 +23,17 @@ body {
     left: 38%;
 }
 
-.date {
+.date-container {
+    display: flex;
+    position: absolute;
+    color: #fff;
+    font-size: 25rem;
+    top: 25rem;
+    left: 48rem;
+    gap: 25rem;
+}
+
+.date-label {
     display: flex;
     position: absolute;
     color: #fff;
