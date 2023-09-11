@@ -19,7 +19,7 @@ Welcome to the New Year 2024 Countdown Timer web page! This simple web applicati
 - Days, hours, minutes, and seconds: The countdown timer is broken down into days, hours, minutes, and seconds, providing a precise measure of time.
 - User-friendly interface: The user interface is clean and easy to understand, making it accessible to users of all ages and technical levels.
 
-![Screenshot](images/new-year.png)
+![Screenshot](images/new-year-countdown-final-ui.png)
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Using the countdown timer is straightforward:
 
 ## Customization
 
-This New Year 2024 Countdown Timer is intentionally simple and doesn't require any specific customization. However, if you'd like to make changes to the design, text, or functionality, you can do so by modifying the HTML, CSS, or JavaScript code in the `index.html`, `style.css`, or `script.js` files, respectively. 
+This New Year 2024 Countdown Timer is intentionally simple and doesn't require any specific customization. However, if you'd like to make changes to the design, text, or functionality, you can do so by modifying the HTML, CSS, or JavaScript code in the `index.html`, `style.css`, or `script.js` files, respectively.
 
 Here are some customization ideas:
 

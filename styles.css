@@ -21,24 +21,36 @@ body {
     color: #fff;
     font-size: 1.5rem;
     left: 40%;
+    background: linear-gradient(90deg, orange 0%, white 50%, green 100%);
+    -webkit-background-clip: text; 
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
 
 .date-container {
     display: flex;
     position: absolute;
     color: #fff;
-    font-size:9rem;
+    font-size:7rem;
     top: 8rem;
-    left: 27rem;
+    left: 20rem;
     gap: 5rem;
+    background: linear-gradient(90deg, orange 0%, white 50%, green 100%);
+    -webkit-background-clip: text; 
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
 
 .date-label {
     display: flex;
     position: absolute;
     color: #fff;
-    font-size: 1rem;
-    gap: 8rem;
+    font-size: 1.5rem;
+    gap: 7rem;
     top: 18rem;
     left: 28rem;
+    background: linear-gradient(90deg, orange 0%, white 50%, green 100%);
+    -webkit-background-clip: text; 
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
