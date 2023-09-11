@@ -19,26 +19,26 @@ body {
 .text{
     position: absolute;
     color: #fff;
-    font-size: 4rem;
-    left: 38%;
+    font-size: 1.5rem;
+    left: 40%;
 }
 
 .date-container {
     display: flex;
     position: absolute;
     color: #fff;
-    font-size: 25rem;
-    top: 25rem;
-    left: 48rem;
-    gap: 25rem;
+    font-size:9rem;
+    top: 8rem;
+    left: 27rem;
+    gap: 5rem;
 }
 
 .date-label {
     display: flex;
     position: absolute;
     color: #fff;
-    font-size: 4rem;
-    gap: 30rem;
-    top: 55rem;
-    left: 50rem;
+    font-size: 1rem;
+    gap: 8rem;
+    top: 18rem;
+    left: 28rem;
 }
